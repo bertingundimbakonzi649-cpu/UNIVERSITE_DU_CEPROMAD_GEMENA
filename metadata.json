@@ -1,0 +1,6 @@
+{
+  "name": "Université CEPROMAD - Campus de Gemena",
+  "description": "Application desktop de gestion des inscriptions, réinscriptions, frais académiques et programmes académiques LMD à l'Université CEPROMAD Gemena.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
